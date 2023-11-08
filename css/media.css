@@ -1,0 +1,12 @@
+@media (max-width:1080px){
+    .head-title{
+        font-size: 3em;
+    }
+    .head-content{
+        margin-top: 100px;
+    }
+    a-scene{
+        max-width: 300px;
+        aspect-ratio: 1/1;
+    }
+}
